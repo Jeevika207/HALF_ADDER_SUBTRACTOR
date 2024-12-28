@@ -92,6 +92,14 @@ endmodule
 Developed by: 24900508
 RegisterNumber: Jeevika R
 
+**TRUTH TABLE**
+
+![image](https://github.com/user-attachments/assets/5d7e5230-8cb4-496d-bda9-920141d8ec94)
+
+![image](https://github.com/user-attachments/assets/1ec9cadb-2b8d-4b7a-bb2a-42fa5078ca5a)
+
+
+
 **RTL Schematic**
 HALF ADDER
 
